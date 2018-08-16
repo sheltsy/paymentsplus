@@ -1,2 +1,2 @@
 # paymentsplus
-connex payments source library - muck about
+payments source library - muck about
